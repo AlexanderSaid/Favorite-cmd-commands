@@ -14,3 +14,5 @@
 ## 3. **`cd`** : Change directory
 
   I like how easy to navigate in my directories using `cd` combined with `tab` key, I just need to logically name my directories and use the first letters and **boom** here is the full directory name popup.
+
+---
